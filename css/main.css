@@ -97,7 +97,26 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  font-family: 'Crimson Text', serif;
+  background: #2B363F;
+  color: #ffffff;
+}
 
+img{
+  width: 100%;
+  max-width: 100%;
+}
+
+ul{
+  display: inline-block;
+  list-style-type: none;
+}
+
+li{
+  display: inline-block;
+  margin: 24px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
